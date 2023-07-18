@@ -1,4 +1,4 @@
-#  Exercise numer 2 Learning compose with Kotlin
+#  Exercise number 2 Learning compose with Kotlin
 
 Este es un proyecto de ejemplo de Jetpack Compose utilizando Kotlin. Estoy aprendiendo desarrollo móvil y he creado este proyecto como parte de mi proceso de aprendizaje. El objetivo es tener un registro de mis inicios y poder ver mi progreso a medida que avanzo en mi carrera como desarrollador móvil.
 
